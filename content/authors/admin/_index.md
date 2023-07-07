@@ -21,9 +21,9 @@ interests:
 - Keeping Ala home
 last_name: Wu
 organizations:
-- name: Stanford University
+- name: University of New Brunswick
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: ostDoc Fellow
 social:
 - icon: envelope
   icon_pack: fas
