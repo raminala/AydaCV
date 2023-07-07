@@ -13,7 +13,7 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-first_name: Alice
+first_name: Ayda
 highlight_name: true
 interests:
 - Artificial Intelligence
