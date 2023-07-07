@@ -16,9 +16,9 @@ email: ""
 first_name: Alice
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Corrosion
+- AdditiveManufacturing
+- Keeping Ala home
 last_name: Wu
 organizations:
 - name: Stanford University
