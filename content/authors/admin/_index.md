@@ -7,10 +7,10 @@ education:
     institution: University of New Brunswick
     year: 2022
   - course: MSc in Material Engineering
-    institution: Massachusetts Institute of Technology
+    institution: Tarbiat Modares University
     year: 2009
   - course: BSc in Material Engineering
-    institution: Massachusetts Institute of Technology
+    institution: Amirkabir University of Technology (Tehran Polytechnique)
     year: 2008
 email: ""
 first_name: Alice
@@ -23,7 +23,7 @@ last_name: Wu
 organizations:
 - name: University of New Brunswick
   url: https://www.stanford.edu/
-role: ostDoc Fellow
+role: PostDoc Fellow
 social:
 - icon: envelope
   icon_pack: fas
