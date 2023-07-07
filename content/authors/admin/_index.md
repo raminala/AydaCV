@@ -8,7 +8,7 @@ education:
     year: 2022
   - course: MSc in Material Engineering
     institution: Tarbiat Modares University
-    year: 2009
+    year: 2011
   - course: BSc in Material Engineering
     institution: Amirkabir University of Technology (Tehran Polytechnique)
     year: 2008
