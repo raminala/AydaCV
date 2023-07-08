@@ -1,23 +1,20 @@
 ---
-
 authors:
 - S. Dehgahi
 - admin
 - A. Odeshi
-- M. Mohammadi 
-date: "2022"
+- M. Mohammadi
+
+date: "2022-08-05T00:00:00Z"
 doi: "10.1007/s11665-022-07166-9"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: true
-projects: []
+  
+  preview_only: false
+
 publication: '*Journal of Materials Engineering and Performance*'
-publication_short: ""
-publication_types:
-- "2"
-publishDate: "2022"
+
 
 tags:
 - Source Themes
