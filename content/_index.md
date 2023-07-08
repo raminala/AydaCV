@@ -139,7 +139,7 @@ sections:
       - publication
     title: Featured Publications
   design:
-    columns: "2"
+    columns: "1"
     view: card
   id: featured
 - block: collection
