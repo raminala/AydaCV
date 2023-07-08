@@ -30,7 +30,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
+title: Influence of Ti Content on High Strain Rate Mechanical and Corrosion Behavior of Additively Manufactured Maraging Steels
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 url_dataset: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
