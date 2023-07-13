@@ -45,9 +45,9 @@ sections:
       company_url: "https://tabrizu.ac.ir/en"
       date_end: "2017-12-31"
       date_start: "2013-01-01"
-      description: Research Assistant.
+      description: Worked as a researcher with extensive teaching responsibilities.
       location: Iran
-      title: Professor of Semiconductor Physics
+      title: Research Assistant
     title: Experience
   design:
     columns: "2"
