@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2022-09-09T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
@@ -12,8 +12,8 @@ links:
 slides: example
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
-title: Example Project
+-  electrochemical
+title: Plastic injection molding dies
 url_code: ""
 url_pdf: ""
 url_slides: ""
