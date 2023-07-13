@@ -29,17 +29,17 @@ sections:
     items:
     - company: UNB
       company_logo: unb
-      company_url: ""
+      company_url: "https://www.unb.ca/mamce/"
       date_end: ""
       date_start: "2021-01-01"
       description: |2-
           Responsibilities include:
 
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
+          * Supervising Research Projects
+          * In-depth study of Corrosion
+          * Additive Manufacturing
+      location: Canada
+      title: Postdoctoral Researcher
     - company: University X
       company_logo: org-x
       company_url: ""
