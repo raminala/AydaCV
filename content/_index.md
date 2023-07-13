@@ -31,7 +31,7 @@ sections:
       company_logo: unb
       company_url: "https://www.unb.ca/mamce/"
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2022-11-11"
       description: |2-
           Responsibilities include:
 
@@ -40,13 +40,13 @@ sections:
           * Additive Manufacturing
       location: Canada
       title: Postdoctoral Researcher
-    - company: University X
-      company_logo: org-x
-      company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
+    - company: University of Tabriz
+      company_logo: tabriz
+      company_url: "https://tabrizu.ac.ir/en"
+      date_end: "2017-12-31"
+      date_start: "2013-01-01"
+      description: Research Assistant.
+      location: Iran
       title: Professor of Semiconductor Physics
     title: Experience
   design:
