@@ -21,7 +21,7 @@ sections:
     - description: 10%
       icon: camera-retro
       icon_pack: fas
-      name: Photography
+      name: Cooking
     title: Skills
 - block: experience
   content:
