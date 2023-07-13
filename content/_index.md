@@ -193,10 +193,9 @@ sections:
     office_hours:
     - Monday 10:00 to 13:00
     - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
+    phone: 506 ??? ?? ??
     subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
+    text: Please write your inquiry here.
     title: Contact
   design:
     columns: "2"
