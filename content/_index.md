@@ -19,7 +19,7 @@ sections:
       icon_pack: fas
       name: Statistics
     - description: 60%
-      icon: cauldron
+      icon: camera-retro
       icon_pack: fas
       name: Cooking
     title: Skills
