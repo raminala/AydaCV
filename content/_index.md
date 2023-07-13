@@ -59,7 +59,7 @@ sections:
       date_end: ""
       date_start: "2019-01-01"
       description: ""
-      organization: Coursera
+      organization: NSERC
       organization_url: https://www.coursera.org
       title: Neural Networks and Deep Learning
       url: ""
