@@ -17,8 +17,8 @@ first_name: Alice
 highlight_name: true
 interests:
 - Corrosion
-- AdditiveManufacturing
-- Materials characterization
+- Additive Manufacturing
+- Materials Characterization
 last_name: Wu
 organizations:
 - name: University of New Brunswick
