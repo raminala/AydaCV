@@ -18,7 +18,7 @@ highlight_name: true
 interests:
 - Corrosion
 - AdditiveManufacturing
-- Keeping Ala home
+- Materials characterization
 last_name: Wu
 organizations:
 - name: University of New Brunswick
@@ -31,9 +31,6 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=aTQE7y8AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ayda-shahriari-417b13113/
