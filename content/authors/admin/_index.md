@@ -28,12 +28,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=aTQE7y8AAAAJ&hl=en
