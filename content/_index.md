@@ -25,10 +25,10 @@ sections:
     title: Skills
 - block: experience
   content:
-    date_format: Jan 2006
+    date_format: Dec 2022
     items:
-    - company: GenCoin
-      company_logo: org-gc
+    - company: UNB
+      company_logo: unb
       company_url: ""
       date_end: ""
       date_start: "2021-01-01"
