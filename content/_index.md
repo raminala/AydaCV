@@ -164,20 +164,12 @@ sections:
       city: Stanford
       country: United States
       country_code: US
-      postcode: "94305"
+      postcode: "E3B 2Y1"
       region: CA
       street: 450 Serra Mall
     appointment_url: https://calendly.com
     autolink: true
     contact_links:
-    - icon: twitter
-      icon_pack: fab
-      link: https://twitter.com/Twitter
-      name: DM Me
-    - icon: skype
-      icon_pack: fab
-      link: skype:echo123?call
-      name: Skype Me
     - icon: video
       icon_pack: fas
       link: https://zoom.com
