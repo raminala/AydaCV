@@ -11,15 +11,15 @@ sections:
   content:
     items:
     - description: 90%
-      icon: r-project
-      icon_pack: fab
-      name: R
-    - description: 100%
-      icon: chart-line
+      icon: chalkboard-user
       icon_pack: fas
-      name: Statistics
+      name: Teaching
+    - description: 100%
+      icon: atom
+      icon_pack: fas
+      name: Corrrosion
     - description: 60%
-      icon: camera-retro
+      icon: utensils
       icon_pack: fas
       name: Cooking
     title: Skills
