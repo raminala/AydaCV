@@ -2,13 +2,13 @@
 date: "2022-09-09T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Measuring set-up for the electrochemical noise
   focal_point: Smart
 links:
 slides: example
-summary: An example of using the in-built project page.
+summary: A Nature Publication!
 tags:
--  electrochemical
+-  Electrochemistry
 title: Plastic injection molding dies using hybrid additively manufactured 420/CX stainless steels
 url_code: ""
 url_pdf: ""
