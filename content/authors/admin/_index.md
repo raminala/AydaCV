@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Materials Characterization, additive manufacturing, Corrosion, and Coating.
 education:
   courses:
   - course: PhD in Mechanical Engineering
