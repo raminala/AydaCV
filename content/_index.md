@@ -41,7 +41,7 @@ sections:
       location: Canada
       title: Postdoctoral Researcher
     - company: Jahad Daneshgahi Sharif University of Technology
-      company_logo: unb
+      company_logo: sharif
       company_url: "https://sharif.acecr.ac.ir/en"
       date_end: "2018-06-01"
       date_start: "2017-08-01"
