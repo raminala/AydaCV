@@ -47,7 +47,7 @@ sections:
       date_start: "2013-01-01"
       description: Worked as a researcher with extensive teaching responsibilities.
       location: Iran
-      title: Research Assistant
+      title: PhD Student
     title: Experience
   design:
     columns: "2"
