@@ -26,8 +26,6 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 
 ---
 
-kkk
-
 ---
 authors:
 - S. Dehgahi
