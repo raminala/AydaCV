@@ -40,10 +40,22 @@ sections:
           * Additive Manufacturing
       location: Canada
       title: Postdoctoral Researcher
+    - company: Jahad Daneshgahi Sharif University of Technology
+      company_logo: unb
+      company_url: "https://sharif.acecr.ac.ir/en"
+      date_end: "2018-06-01"
+      date_start: "2017-08-01"
+      description: |2-
+          Responsibilities include:
+
+          * Inspection of corrosion
+          
+      location: Iran
+      title: Junior Engineer
     - company: University of Tabriz
       company_logo: tabriz
       company_url: "https://tabrizu.ac.ir/en"
-      date_end: "2017-12-31"
+      date_end: "2017-06-01"
       date_start: "2013-01-01"
       description: Worked as a researcher with extensive teaching responsibilities.
       location: Iran
