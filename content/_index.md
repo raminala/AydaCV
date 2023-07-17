@@ -137,21 +137,24 @@ sections:
 - block: collection
   content:
     filters:
+      featured_only: true
       folders:
       - publication
-    title: Publications
+    title: Featured Publications
+  design:
+    columns: "2"
+    view: card
+  id: featured
+- block: collection
+  content:
+    filters:
+      exclude_featured: true
+      folders:
+      - publication
+    title: Recent Publications
   design:
     columns: "2"
     view: citation
-    item_template: |
-      <h3>{{ .Title }}</h3>
-      <p>authors: {{ range .Authors }}{{ . }} {{ end }}</p>
-      <p>date: "{{ .Date }}"</p>
-      <p>doi: "{{ .DOI }}"</p>
-      <p>featured: {{ .Featured }}</p>
-      <p>publication: "{{ .Publication }}"</p>
-      <p>tags: {{ range .Tags }}{{ . }} {{ end }}</p>
-
 - block: collection
   content:
     filters:
