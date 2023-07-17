@@ -16,7 +16,7 @@ sections:
     - description: 100%
       icon: atom
       icon_pack: fas
-      name: Corrrosion
+      name: Corrosion
     - description: 60%
       icon: utensils
       icon_pack: fas
@@ -137,24 +137,12 @@ sections:
 - block: collection
   content:
     filters:
-      featured_only: true
       folders:
       - publication
-    title: Featured Publications
+    title: Publications
   design:
-    columns: "1"
-    view: card
-  id: featured
-- block: collection
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
-    title: Recent Publications
-  design:
-    columns: "1"
-    view: citation
+    columns: "2"
+  view: citation
 - block: collection
   content:
     filters:
