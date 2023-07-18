@@ -168,31 +168,28 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
+      city: Fredericton
       country: United States
       country_code: US
       postcode: "E3B 2Y1"
       region: CA
-      street: 450 Serra Mall
-    appointment_url: https://calendly.com
+      street: 15 Dineen Dr
+
     autolink: true
     contact_links:
     - icon: video
       icon_pack: fas
       link: https://zoom.com
       name: Zoom Me
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+    
+    email: ashahria@unb.ca
     form:
       formspree:
         id: null
       netlify:
         captcha: false
       provider: netlify
-    office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-    phone: 506 ??? ?? ??
+      phone: 506 ??? ?? ??
     subtitle: null
     text: Please write your inquiry here.
     title: Contact
