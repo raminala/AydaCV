@@ -174,7 +174,7 @@ sections:
       postcode: "E3B 2Y1"
       region: CA
       street: 15 Dineen Dr
-
+    appointment_url: https://calendly.com
     autolink: true
     contact_links:
     - icon: video
