@@ -49,7 +49,7 @@ sections:
 
           * Inspection of corrosion
           
-      location: Irann
+      location: Iran
       title: Junior Engineer
     - company: University of Tabriz
       company_logo: tabriz
