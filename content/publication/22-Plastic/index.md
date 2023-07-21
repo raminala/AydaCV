@@ -21,6 +21,7 @@ publication: '*npj Materials Degradation*'
 tags:
 - additive manufacturing
 - Noise Analysis
+
 title: Plastic injection molding dies using hybrid additively manufactured 420/CX stainless steels: electrochemical considerations
 
 
