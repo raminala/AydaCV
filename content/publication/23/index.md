@@ -22,7 +22,7 @@ title: Influence of Ti Content on High Strain Rate Mechanical and Corrosion Beha
 
 
 
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://link.springer.com/article/10.1007/s11665-022-07166-9
 
 ---
 
