@@ -26,7 +26,7 @@ publication: '*Materials Characterization*'
 
 tags:
 - additive manufacturing
-- stainless steels
+- Stainless Steel
 title: Microstructure, texture, and anisotropic mechanical behavior of selective laser melted maraging stainless steels
 
 
