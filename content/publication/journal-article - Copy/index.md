@@ -1,28 +1,35 @@
 ---
 authors:
-- S. Dehgahi
+- Mehdi Sanjari
+- Mahdi Mahmoudiniya
+- Hadi Pirgazi
+- Saeed Tamimi
+- Mohammad Hossein Ghoncheh
 - admin
-- A. Odeshi
-- M. Mohammadi
+- Amir Hadadzadeh
+- Babak Shalchi Amirkhiz
+- Mackenzie Purdy
+- Edgar Gomes de Araujo
+- Leo Kestens
+- Mohsen Mohammadi
 
-date: "2022-08-05T00:00:00Z"
-doi: "10.1007/s11665-022-07166-9"
+date: "2022-10-01T00:00:00Z"
+doi: "10.1016/j.matchar.2022.112185"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   
   preview_only: true
 
-publication: '*Journal of Materials Engineering and Performance*'
+publication: '*Materials Characterization*'
 
 
 tags:
 - Source Themes
-title: Influence of Ti Content on High Strain Rate Mechanical and Corrosion Behavior of Additively Manufactured Maraging Steels
+title: Microstructure, texture, and anisotropic mechanical behavior of selective laser melted maraging stainless steels
 
 
 
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1044580322004673
 
 ---
-
