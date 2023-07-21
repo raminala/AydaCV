@@ -15,13 +15,13 @@ image:
   
   preview_only: true
 
-publication: '*Materials Characterization*'
+publication: '*npj Materials Degradation*'
 
 
 tags:
-- additive manufacturing
-- Stainless Steel
-title: fff
+- Additive Manufacturing
+- Noise Analysis
+title: Plastic injection molding dies using hybrid additively manufactured
 
 
 
