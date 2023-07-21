@@ -21,7 +21,7 @@ publication: '*npj Materials Degradation*'
 tags:
 - Additive Manufacturing
 - Noise Analysis
-title: Plastic injection molding dies using hybrid additively manufactured
+title: Plastic injection molding dies using hybrid additively manufactured stainless steels: electrochemical considerations
 
 
 
