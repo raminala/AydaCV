@@ -39,7 +39,7 @@ sections:
           * Additive Manufacturing
       location: Canada
       title: Postdoctoral Researcher
-    - company: JAahad Daneshgahi Sharif University of Technology
+    - company: Jahad Daneshgahi Sharif University of Technology
       company_logo: sharif
       company_url: "https://sharif.acecr.ac.ir/en"
       date_end: "2018-06-01"
