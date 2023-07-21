@@ -20,7 +20,7 @@ sections:
     - description: 60%
       icon: utensils
       icon_pack: fas
-      name: Cooking
+      name: Painting
     title: Skills
 - block: experience
   content:
