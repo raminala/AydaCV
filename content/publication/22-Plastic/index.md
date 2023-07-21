@@ -15,17 +15,16 @@ image:
   
   preview_only: true
 
-publication: '*npj Materials Degradation*'
+publication: '*Materials Characterization*'
 
 
 tags:
 - additive manufacturing
-- Noise Analysis
-
-title: Plastic injection molding dies using hybrid additively manufactured 420/CX stainless steels: electrochemical considerations
-
+- Stainless Steel
+title: Microstructure, texture, and anisotropic mechanical behavior of selective laser melted maraging stainless steels
 
 
-url_pdf: https://www.nature.com/articles/s41529-022-00280-y.pdf
+
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1044580322004673
 
 ---
