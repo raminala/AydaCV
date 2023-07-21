@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: https://example.org
+external_link: https://www.sciencedirect.com/science/article/abs/pii/S2214860421002335
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
