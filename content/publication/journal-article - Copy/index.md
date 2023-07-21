@@ -11,7 +11,7 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   
-  preview_only: false
+  preview_only: true
 
 publication: '*Journal of Materials Engineering and Performance*'
 
