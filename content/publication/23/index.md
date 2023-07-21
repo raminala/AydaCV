@@ -11,14 +11,13 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   
-  preview_only: false
+  preview_only: true
 
 publication: '*Journal of Materials Engineering and Performance*'
 
-Volume: 32
-
 tags:
-- Source Themes
+- Additive Manufacturing
+
 title: Influence of Ti Content on High Strain Rate Mechanical and Corrosion Behavior of Additively Manufactured Maraging Steels
 
 
