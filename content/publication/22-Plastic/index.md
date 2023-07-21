@@ -13,7 +13,7 @@ featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   
-  preview_only: true
+  preview_only: false
 
 publication: '*npj Materials Degradation*'
 
