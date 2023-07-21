@@ -21,10 +21,10 @@ publication: '*Materials Characterization*'
 tags:
 - additive manufacturing
 - Stainless Steel
-title: Microstructure, texture, and anisotropic mechanical behavior of selective laser melted maraging stainless steels
+title: Plastic injection molding dies using hybrid additively manufactured 420/CX stainless steels: electrochemical considerations
 
 
 
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1044580322004673
+url_pdf: https://www.nature.com/articles/s41529-022-00280-y.pdf
 
 ---
