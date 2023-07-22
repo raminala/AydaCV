@@ -165,5 +165,37 @@ sections:
     title: Popular Topics
   design:
     columns: "2"
-
+- block: contact
+  content:
+    address:
+      city: Fredericton
+      country: United States
+      country_code: US
+      postcode: "E3B 2Y1"
+      region: CA
+      street: 15 Dineen Dr
+    appointment_url: https://calendly.com
+    autolink: true
+    contact_links:
+    - icon: video
+      icon_pack: fas
+      link: https://zoom.com
+      name: Zoom Me
+    
+    email: ashahria@unb.ca
+    form:
+      formspree:
+        id: null
+      netlify:
+        captcha: false
+      provider: netlify
+      phone: 506 ??? ?? ??
+    subtitle: null
+    text: Please write your inquiry here.
+    title: Contact
+  design:
+    columns: "2"
+  id: contact
+title: null
+type: landing
 ---
