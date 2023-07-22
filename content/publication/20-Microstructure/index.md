@@ -1,11 +1,10 @@
 ---
 authors:
-- Mehdi Sanjari
-- Amir Hadadzadeh
-- Hadi Pirgazi
 - admin
+- Ladan Khaksar
+- Ali Nasiri
+- Amir Hadadzadeh
 - Babak Shalchi Amirkhiz
-- Leo AI Kestens
 - Mohsen Mohammadi
 
 date: "2020-04-10T00:00:00Z"
