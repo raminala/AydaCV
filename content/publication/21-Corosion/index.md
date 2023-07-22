@@ -6,18 +6,17 @@ authors:
 - Ali Nasiri
 - Amir Hadadzadeh
 - Babak Shalchi Amirkhiz
-- Babak Shalchi Amirkhiz
 - Mohsen Mohammadi
 
-date: "2021-09-01T00:00:00Z"
-doi: "10.1016/j.addma.2021.102068"
+date: "2021-05-15T00:00:00Z"
+doi: "10.1016/j.corsci.2021.109362"
 featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   
   preview_only: true
 
-publication: '*Additive Manufacturing*'
+publication: '*Corrosion Science*'
 
 
 tags:
@@ -27,7 +26,7 @@ title: "Corrosion resistance of 13wt.% Cr martensitic stainless steels: Additive
 
 
 
-url_pdf: https://www.nature.com/articles/s41529-022-00280-y.pdf
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0013468620303170
 
 ---
 
