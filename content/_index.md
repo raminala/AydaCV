@@ -113,10 +113,12 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Additive manufacturing
+      tag: Additive manufacturing
     - name: Other
       tag: Demo
+    - name: Microstructure
+      tag: Microstructure
     default_button_index: 0
     filters:
       folders:
