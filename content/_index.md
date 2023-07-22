@@ -17,8 +17,8 @@ sections:
       icon: atom
       icon_pack: fas
       name: Corrrosion
-    - description: 60%
-      icon: utensils
+    - description: 70%
+      icon: paintbrush
       icon_pack: fas
       name: Painting
     title: Skills
