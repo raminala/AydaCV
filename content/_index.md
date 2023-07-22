@@ -115,8 +115,6 @@ sections:
       tag: '*'
     - name: Additive manufacturing
       tag: Additive manufacturing
-    - name: Other
-      tag: Demo
     - name: Microstructure
       tag: Microstructure
     default_button_index: 0
