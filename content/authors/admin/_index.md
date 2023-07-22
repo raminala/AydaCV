@@ -21,7 +21,7 @@ interests:
 last_name: Wu
 organizations:
 - name: University of New Brunswick
-  url: https://www.stanford.edu/
+  url: https://unb.ca/
 role: PostDoc Fellow
 social:
 - icon: envelope
