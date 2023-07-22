@@ -117,6 +117,8 @@ sections:
       tag: Additive manufacturing
     - name: Microstructure
       tag: Microstructure
+    - name: Corrosion
+      tag: Corrosion
     default_button_index: 0
     filters:
       folders:
