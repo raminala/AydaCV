@@ -21,12 +21,12 @@ marketing:
     description: 'Matrial Scientist.'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: '<meta name="google-site-verification" content="PCOYKenBQ08STI0zP4K8qwos50lJJiioUb38_3aBF9I" />'
+    google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: '<meta name="google-site-verification" content="PCOYKenBQ08STI0zP4K8qwos50lJJiioUb38_3aBF9I" />'
+    google_tag_manager: ''
     microsoft_clarity: ''  
   verification:
-    google: '<meta name="google-site-verification" content="PCOYKenBQ08STI0zP4K8qwos50lJJiioUb38_3aBF9I" />'
+    google: ''
     baidu: ''
 
 # Site header
