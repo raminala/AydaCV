@@ -5,7 +5,7 @@ education:
   - course: PhD in Mechanical Engineering
     institution: University of New Brunswick
     year: 2022
-  - course: MSc in Material Engineering
+  - course: MSc in Material Engineeringd
     institution: Tarbiat Modares University
     year: 2011
   - course: BSc in Material Engineering
