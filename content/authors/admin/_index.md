@@ -2,7 +2,7 @@
 bio: Materials Characterization, additive manufacturing, Corrosion, and Coating.
 education:
   courses:
-  - course: PhD in Mechanical Engineering
+  - course: PhD in Mechanical Engineeringg
     institution: University of New Brunswick
     year: 2022
   - course: MSc in Material Engineering
